@@ -1,0 +1,31 @@
+{
+  "title": "春日与你",
+  "subtitle": "把温柔，珍藏起来",
+  "collection": "OUR LITTLE GARDEN",
+  "tagline": "两个人 · 三只猫 · 一整个春天",
+  "technique": "此刻，即永恒",
+  "edition": "No. 001 / 001",
+  "description": "花开的时候，和你一起躺在春天里。把两个人、三只猫的小小世界，藏进一张会发光的卡片。",
+  "parameters": {
+    "subjectScale": 1.06,
+    "subjectDepth": 0.32,
+    "backgroundDepth": -0.2,
+    "foil": 0.42
+  },
+  "safeArea": {
+    "scale": 1.0,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "backTitle": "春日与你",
+  "backMessage": "愿每一个平凡的日子，\n都有你，有猫，有花开。",
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png",
+    "model": "./assets/card.glb"
+  }
+}
